@@ -2,7 +2,7 @@
 name: Epico
 about: '"Issue" para os épicos'
 title: ''
-labels: epico, historia
+labels: epico
 assignees: ''
 
 ---

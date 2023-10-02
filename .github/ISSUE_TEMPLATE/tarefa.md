@@ -2,7 +2,7 @@
 name: Tarefa
 about: '"Issue" para as tarefas'
 title: ''
-labels: ''
+labels: tarefa
 assignees: ''
 
 ---
